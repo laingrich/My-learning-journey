@@ -1,2 +1,2 @@
-# My-learning-journey
-A log of my development learning
+# my-learning-journey
+a log of my development learning
