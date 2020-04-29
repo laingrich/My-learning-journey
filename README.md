@@ -5,8 +5,4 @@ a log of my development learning
 - read this https://www.freecodecamp.org/news/facing-impostor-syndrome-and-time-management-issues/
 
 FreeCodeCamp CSS
-  id = "thumbnail"
-  
-  <style>
-    #thumbnail {apply styles to id here}
-  </style>
+- Applied Visual Design - 5 poms - completed section.
