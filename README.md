@@ -14,3 +14,8 @@ FreeCodeCamp CSS
 - Accessibility - 4 poms - completed section
 
 Created a basic HTML page using textedit, applied some CSS styles and used Chrome inspector to play around with it.
+
+2 May 2020
+FreeCode Camp CSS
+- Responsive Web Design Principles
+- CSS flexbox
