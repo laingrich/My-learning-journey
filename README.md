@@ -19,3 +19,8 @@ Created a basic HTML page using textedit, applied some CSS styles and used Chrom
 FreeCode Camp CSS
 - Responsive Web Design Principles
 - CSS flexbox
+
+3 May 2020
+FreeCode Camp CSS
+- CSS Grids
+- Start first project!
