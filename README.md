@@ -23,4 +23,10 @@ FreeCode Camp CSS
 3 May 2020
 FreeCode Camp CSS
 - CSS Grids
-- Start first project!
+- Started first project
+
+4 May 2020
+Completed freecodecamp first project in Codepen.
+
+6th May 2020
+Started 2nd freecoecamp codepen project.
