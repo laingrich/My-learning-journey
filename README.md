@@ -29,4 +29,8 @@ FreeCode Camp CSS
 Completed freecodecamp first project in Codepen.
 
 6th May 2020
-Started 2nd freecoecamp codepen project.
+Started 2nd freecodecamp codepen project.
+
+8th May 2020
+
+Completed 2nd freecodecamp codepen project
