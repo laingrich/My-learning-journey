@@ -34,3 +34,8 @@ Started 2nd freecodecamp codepen project.
 8th May 2020
 
 Completed 2nd freecodecamp codepen project
+
+29th May 2020
+
+Created first xamirin.forms app
+Reading up on xml
